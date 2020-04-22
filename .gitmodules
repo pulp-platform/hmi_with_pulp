@@ -1,0 +1,3 @@
+[submodule "q-eegnet"]
+	path = q-eegnet
+	url = git@github.com:pulp-platform/q-eegnet.git

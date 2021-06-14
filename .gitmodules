@@ -1,3 +1,6 @@
 [submodule "q-eegnet"]
 	path = q-eegnet
 	url = git@github.com:pulp-platform/q-eegnet.git
+[submodule "multispectral-riemannian"]
+	path = multispectral-riemannian
+	url = https://github.com/pulp-platform/multispectral-riemannian
